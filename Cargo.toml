@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-icon-themes"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS icon-themes component"
+
+[lib]
+name = "icon_themes"
+path = "src/lib.rs"
