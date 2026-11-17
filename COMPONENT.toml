@@ -3,7 +3,7 @@ name = "SigmaOS-icon-themes"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "icon-themes component"
+description = "Icon themes component for SigmaOS inspired by Arch Linux"
 upstream = []
 
 [contract]
